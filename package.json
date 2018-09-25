@@ -1,0 +1,16 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "slides",
+  "scripts": {
+    "build-css": "node-sass ./css/source/   --output ./css/",
+    "start": "static -a 0.0.0.0"
+  },
+  "author": "Niek Palm",
+  "license": "MIT",
+  "devDependencies": {
+    "global": "^4.3.2",
+    "node-sass": "^4.9.3",
+    "node-static": "^0.7.11"
+  }
+}
