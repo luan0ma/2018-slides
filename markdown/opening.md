@@ -7,6 +7,11 @@
 
 !SUB
 # Emergencies
+- In case of an emergency please contact US!
+- Please do NOT call 111 but:
+
+## 040-2305444
+
 
 !SUB
 # Schedule
