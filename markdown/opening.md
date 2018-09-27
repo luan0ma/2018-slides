@@ -8,7 +8,7 @@
 !SUB
 # Emergencies
 - In case of an emergency please contact US!
-- Please do NOT call 111 but:
+- In case you can't wait call
 
 ## 040-2305444
 
